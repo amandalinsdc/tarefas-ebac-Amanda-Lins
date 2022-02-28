@@ -1,0 +1,12 @@
+- Algoritmo portugol da hora de acordar
+
+1. Ao acordar, abro os olhos;
+2. Após abrir os olhos, levanto da cama;
+3. Após levantar da cama, desligo o ventilador;
+4. Após de desligar o ventilador, vou para o banheiro;
+5. Após entrar no banheiro, escovo os dentes e tomo banho;
+6. Após tomar banho, pego a toalha;
+7. Após pegar a toalha, me enxugo; 
+8. Após me enxugar, coloco a roupa;
+9. Após colocar a roupa, penteio os cabelos;
+10. Após pentear os cabelos, vou para cozinha tomar meu café da manhã;
