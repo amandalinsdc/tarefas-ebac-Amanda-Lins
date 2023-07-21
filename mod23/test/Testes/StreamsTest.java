@@ -10,8 +10,6 @@ import java.util.stream.Collectors;
 
 public class StreamsTest {
 
-    mainStreams testar;
-
     @Test
     public void getTodosDoGeneroFemininoTest() {
         List<String> pessoas = Arrays.asList("Amanda (f)", "José (m)", "Pedro (M)", "Paula (F)", "Neide (f)");
