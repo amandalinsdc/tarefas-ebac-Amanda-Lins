@@ -8,7 +8,7 @@ spring:
       active: native
   data:
       mongodb:
-        uri: mongodb://amandalinsdc:Xu77oLrbkaCUDU9Y@Cluster0.mongodb.net/vendasOnline
+        uri: mongodb://vendasOnline
         database: Cliente
         auto-index-creation: true
 
